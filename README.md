@@ -23,7 +23,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshreddy&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DurgaPrasad&show_icons=true&theme=default)
 
 
 <!--
