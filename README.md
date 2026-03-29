@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Durga Prasad Gadi 
 
-🎓 I'm a fresher currently learning **Data Analytics**  
-📈 Skilled in **Excel, SQL, Python, and Power BI**  
-💡 I enjoy solving real-world data problems and creating insightful dashboards  
-🚀 Currently looking for a **job or internship** in data analysis or business intelligence  
-📚 Learning every day and building small projects to grow my skills
+ I'm a fresher currently learning **Data Analytics**  
+ Skilled in **Excel, SQL, Python, and Power BI**  
+ I enjoy solving real-world data problems and creating insightful dashboards  
+ Currently looking for a **job or internship** in data analysis or business intelligence  
+ Learning every day and building small projects to grow my skills
 
 ---
 
